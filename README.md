@@ -1,6 +1,6 @@
-# Ethical-Hacking-Resources
+# Ethical Hacking Resources
 
-##  - [Resources (Platforms, CTFs, Books,..)](./content/ethicalhacking.md)
+###  - [Resources (Platforms, CTFs, Books,..)](./content/ethicalhacking.md)
 ### - [Web Exploitation](./content/web/README.md)
 ### - [Cryptography](./content/crypto/README.md)
 ### - [Steganography](./content/stego/README.md)
